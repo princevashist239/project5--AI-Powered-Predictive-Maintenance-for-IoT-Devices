@@ -1,0 +1,1 @@
+model = joblib.load("predictive_maintenance_model.pkl")
